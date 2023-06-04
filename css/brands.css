@@ -73,6 +73,16 @@ button:hover,
 
 /* Brand Styles
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* Default (this is great for your own brand color!) */
+.button.button-aegis {
+  color: #fefefe;
+  background-color: #000000;
+}
+.button.button-aegis:hover,
+.button.button-aegis:focus {
+  filter: brightness(90%);
+}
+
 
 /* Default (this is great for your own brand color!) */
 .button.button-default {
